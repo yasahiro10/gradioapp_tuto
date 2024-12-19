@@ -18,7 +18,7 @@ Gradio is perfect for:
 
 ## Repository Structure
 
-- **`examples/`**: Contains practical examples of Gradio applications.
+- **`gradio app/tut_*`**: Contains practical examples of Gradio applications.
 - **`README.md`**: Documentation for the tutorial.
 - **`requirements.txt`**: List of dependencies to install.
 
@@ -37,7 +37,7 @@ python --version
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/your-username/quick_tuto_gradio.git
+   git clone https://github.com/yasahiro10/gradioapp_tuto.git
    cd quick_tuto_gradio
    ```
 
@@ -49,16 +49,16 @@ python --version
 
 ### Running an Example
 
-1. Navigate to the `examples/` directory:
+1. Navigate to the `gradio app/` directory:
 
    ```bash
-   cd examples
+   cd gradio app/tut_{}
    ```
 
 2. Run an example script:
 
    ```bash
-   python example_1.py
+   python tut_1.py
    ```
 
 3. Open the Gradio interface in your browser. You will see a local or public URL in the terminal.
