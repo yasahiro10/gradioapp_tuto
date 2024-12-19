@@ -38,7 +38,7 @@ python --version
 
    ```bash
    git clone https://github.com/yasahiro10/gradioapp_tuto.git
-   cd quick_tuto_gradio
+   cd gradio app
    ```
 
 2. Install the dependencies:
@@ -98,7 +98,7 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 
 ## Contact
 
-If you have any questions or suggestions, feel free to open an issue or contact us at [your-email@example.com](mailto:your-email@example.com).
+If you have any questions or suggestions, feel free to open an issue or contact us at [yassineouardani381@gmail.com](mailto:yassineouardani381@gmail.com).
 
 ---
 
